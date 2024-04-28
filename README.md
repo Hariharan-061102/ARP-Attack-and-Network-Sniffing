@@ -34,25 +34,21 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 
  dsniff:
-
-
-
-
-
-
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
-
-
+![image](https://github.com/Hariharan-061102/ARP-Attack-and-Network-Sniffing/assets/93427270/a5e262c0-44e1-4372-84d4-a9f38c26a399)
 
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
+![image](https://github.com/Hariharan-061102/ARP-Attack-and-Network-Sniffing/assets/93427270/9eaf5f48-02a7-4f3a-8a51-46920e78ae9d)
 
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+
+![image](https://github.com/Hariharan-061102/ARP-Attack-and-Network-Sniffing/assets/93427270/4531bc11-5edd-4e60-8b68-1db8ff5abfcf)
 
 
 ## RESULT:
